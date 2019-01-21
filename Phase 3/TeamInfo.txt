@@ -1,0 +1,11 @@
+# Files containing SQL implementation
+
+# Database creation and setup
+/setup/database_setup.sql
+/setup/schema.sql
+
+# Stage data, populating users, ESFs, Cost Pers, and Emergency Declarations
+/setup/stage_data.sql
+
+# Application code
+/data.py
