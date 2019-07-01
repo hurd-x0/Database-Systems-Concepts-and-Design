@@ -33,9 +33,9 @@ Build an information management tool that supports government agencies and munic
 
 1. **Phase 1**  
     * [team05_p1_eer.pdf](Phase%201/team05_p1_eer.pdf)  
-      * Information Flow Diagram (IFD)
-    * [team05_p1_ifd.pdf](Phase%201/team05_p1_ifd.pdf)  
       * Enhanced Entity-Relationship (EER) Diagram
+    * [team05_p1_ifd.pdf](Phase%201/team05_p1_ifd.pdf)  
+      * Information Flow Diagram (IFD)
     * [team05_p1_report.pdf](Phase%201/team05_p1_report.pdf)
       * Report with Data Types, Business Logic Constraints, Task Decomposition (TD) & Abstract Code (AC)
 2. **Phase 2**
